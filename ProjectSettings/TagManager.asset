@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tanah
+  - Balik
+  - BatasPeluru
+  - Enemy
+  - TriggerEnemy
+  - Bullet
+  - BatasPeluruEnemy
+  - BulletEnemy
+  - BatasPlayer
+  - CameraPlayer
+  - ButtonYes
+  - ButtonNo
+  - StartPos
+  - UI_Canvas
+  - HealthBar
+  - BulletBar
+  - HealthEnemy
+  - Music
+  - Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MainCharacter
+  - Ground
+  - Enemy
+  - Trigger_1
+  - Trigger_2
+  - Trigger_3
+  - Trigger_4
+  - Trigger_5
+  - Trigger_6
+  - Trigger_7
+  - Trigger_8
+  - Trigger_9
+  - Trigger_10
+  - Balik
+  - ButtonYes
+  - ButtonNo
+  - CameraPlayer
+  - BatasEnemy
+  - Finish
+  - PosisiAwal
+  - Trigger_11
+  - Trigger_12
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

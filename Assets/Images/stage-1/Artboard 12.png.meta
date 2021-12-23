@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 52cd222cd2bd92640baef5aebeb43b96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4570824567840563258
+    second: Artboard 12_0
+  - first:
+      213: 3836728852280226079
+    second: Artboard 12_1
+  - first:
+      213: -5467227934775265343
+    second: Artboard 12_2
+  - first:
+      213: 6705230447835456136
+    second: Artboard 12_3
+  - first:
+      213: -224668146162299559
+    second: Artboard 12_4
+  - first:
+      213: -1627845724283894187
+    second: Artboard 12_5
+  - first:
+      213: -6555638461571666264
+    second: Artboard 12_6
+  - first:
+      213: -4254887840649027257
+    second: Artboard 12_7
+  - first:
+      213: 3508429667629148014
+    second: Artboard 12_8
+  - first:
+      213: -3418970163870453944
+    second: Artboard 12_9
+  - first:
+      213: 854312378057315130
+    second: Artboard 12_10
+  - first:
+      213: 1040603878320898571
+    second: Artboard 12_11
+  - first:
+      213: -8687609699951422355
+    second: Artboard 12_12
+  - first:
+      213: -2249421089205342409
+    second: Artboard 12_13
+  - first:
+      213: 2615047676835382382
+    second: Artboard 12_14
+  - first:
+      213: -8296222276168760863
+    second: Artboard 12_15
+  - first:
+      213: -8327106554712977252
+    second: Artboard 12_16
+  - first:
+      213: -1634258977082946614
+    second: Artboard 12_17
+  - first:
+      213: 4674156775327244760
+    second: Artboard 12_18
+  - first:
+      213: -4699961503606042963
+    second: Artboard 12_19
+  - first:
+      213: 1787101070797481199
+    second: Artboard 12_20
+  - first:
+      213: -4118914043675101486
+    second: Artboard 12_21
+  - first:
+      213: 5576943464020291973
+    second: Artboard 12_22
+  - first:
+      213: -1265991232738347602
+    second: Artboard 12_23
+  - first:
+      213: -7736919156848904718
+    second: Artboard 12_24
+  - first:
+      213: -415665048976940236
+    second: Artboard 12_25
+  - first:
+      213: -8056368702531335180
+    second: Artboard 12_26
+  - first:
+      213: 4511816392062096380
+    second: Artboard 12_27
+  - first:
+      213: -5566410584083954723
+    second: Artboard 12_28
+  - first:
+      213: -8264660122817273521
+    second: Artboard 12_29
+  - first:
+      213: -7948418868229479447
+    second: Artboard 12_30
+  - first:
+      213: 9195217889694757546
+    second: Artboard 12_31
+  - first:
+      213: -3831949389908905966
+    second: Artboard 12_32
+  - first:
+      213: 2254749957998538753
+    second: Artboard 12_33
+  - first:
+      213: 4873403692211259674
+    second: Artboard 12_34
+  - first:
+      213: 531139503020984702
+    second: Artboard 12_35
+  - first:
+      213: -1607589511755652464
+    second: Artboard 12_36
+  - first:
+      213: 6817351453570571800
+    second: Artboard 12_37
+  - first:
+      213: -2626236957083184579
+    second: Artboard 12_38
+  - first:
+      213: -8306541203697761077
+    second: Artboard 12_39
+  - first:
+      213: 1569964562586283366
+    second: Artboard 12_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Artboard 12_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 315
+        width: 608
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e3c82ab4de6f30800000000000000
+      internalID: 4570824567840563258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artboard 12_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 597
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b7a3309cce3530800000000000000
+      internalID: 3836728852280226079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
